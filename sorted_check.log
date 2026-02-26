@@ -1,0 +1,6 @@
+2026-02-20 16:05:02,252 - INFO - Checking if the list is sorted in ascending order
+2026-02-20 16:05:02,252 - INFO - Comparing 1 and 3
+2026-02-20 16:05:02,252 - INFO - Comparing 3 and 5
+2026-02-20 16:05:02,252 - INFO - Comparing 5 and 7
+2026-02-20 16:05:02,252 - INFO - Comparing 7 and 9
+2026-02-20 16:05:02,252 - INFO - List is sorted in ascending order

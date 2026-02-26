@@ -1,0 +1,12 @@
+2026-02-20 15:55:14,778 - INFO - Finding second largest element in the list
+2026-02-20 15:55:14,778 - INFO - Checking number: 10
+2026-02-20 15:55:14,778 - INFO - Updated largest=10, second=-inf
+2026-02-20 15:55:14,778 - INFO - Checking number: 20
+2026-02-20 15:55:14,778 - INFO - Updated largest=20, second=10
+2026-02-20 15:55:14,779 - INFO - Checking number: 5
+2026-02-20 15:55:14,779 - INFO - Checking number: 8
+2026-02-20 15:55:14,779 - INFO - Checking number: 30
+2026-02-20 15:55:14,779 - INFO - Updated largest=30, second=20
+2026-02-20 15:55:14,779 - INFO - Checking number: 25
+2026-02-20 15:55:14,779 - INFO - Updated second=25
+2026-02-20 15:55:14,779 - INFO - Second largest element found: 25

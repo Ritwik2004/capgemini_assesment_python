@@ -1,0 +1,4 @@
+2026-02-20 19:44:09,138 - INFO - checking if the list is sorted in ascending order or not
+2026-02-20 19:44:09,139 - INFO - List is sorted in ascending order
+2026-02-20 19:44:47,820 - INFO - checking if the list is sorted in ascending order or not
+2026-02-20 19:44:47,820 - ERROR - List is not sorted in ascending order.

@@ -1,0 +1,2 @@
+2026-02-20 19:15:52,906 - INFO - Calculating friquency of characters in the string
+2026-02-20 19:15:52,906 - INFO - character frequency calculated: {'p': 1, 'r': 2, 'o': 1, 'g': 2, 'a': 1, 'm': 2, 'i': 1, 'n': 1}

@@ -1,0 +1,4 @@
+2026-02-20 15:27:05,730 - INFO - Counting vowels in the string
+2026-02-20 15:27:05,731 - INFO - Vowel count calculated: 3
+2026-02-20 15:38:28,930 - INFO - Calculating frequency of characters in the string
+2026-02-20 15:38:28,931 - INFO - Character frequencies calculated: {'p': 1, 'r': 2, 'o': 1, 'g': 2, 'a': 1, 'm': 2, 'i': 1, 'n': 1}

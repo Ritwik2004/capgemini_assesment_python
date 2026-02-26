@@ -1,0 +1,2 @@
+2026-02-20 19:53:35,412 - INFO - Removing duplicate elements while preserving order
+2026-02-20 19:53:35,413 - INFO - Final list without duplicates: [1, 2, 3, 4, 5]
