@@ -1,0 +1,12 @@
+2026-02-27 15:41:30,584 | INFO | Line:6 | Traffinc Simulation Started...
+2026-02-27 15:41:32,982 | INFO | Line:7 | Traffic signal created with vechicle count = 15
+2026-02-27 15:41:32,983 | INFO | Line:7 | Traffic signal created with vechicle count = 15
+2026-02-27 15:41:32,983 | INFO | Line:5 | Signal Controller started for City Signal
+2026-02-27 15:41:32,983 | INFO | Line:11 | Calculating green time for City signal
+2026-02-27 15:41:32,983 | INFO | Line:7 | City Signal--> Green for 30 second..
+2026-02-27 15:41:32,983 | INFO | Line:8 | Signal Controller operation Completed
+2026-02-27 15:41:32,983 | INFO | Line:5 | Signal Controller started for Highway Signal
+2026-02-27 15:41:32,983 | INFO | Line:11 | Calculating green time for highway signal
+2026-02-27 15:41:32,983 | INFO | Line:7 | Highway Signal--> Green for 45 second..
+2026-02-27 15:41:32,983 | INFO | Line:8 | Signal Controller operation Completed
+2026-02-27 15:41:32,983 | INFO | Line:17 | Simulation complited
